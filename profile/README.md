@@ -17,12 +17,12 @@ Click a badge to access the Zenodo record for that project.
 
 | Repository | Description | DOI |
 |-----------|-------------|-----|
-| **BaalChIP** | Modified BaalChIP repository for inferring allele-specific binding (ASB) sites in ChIP-seq data using a fully-Bayesian approach. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813728.svg)](https://doi.org/10.5281/zenodo.17813728) |
-| **baal-nf** | Core Nextflow pipeline for ASB discovery and downstream characterization of high-quality ASBs. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813724.svg)](https://doi.org/10.5281/zenodo.17813724) |
-| **non-asb-downstream-analysis** | Nextflow pipeline to run downstream analysis on high-quality ASB sets, including evolutionary conservation and trait/QTL association analysis with OpenTargets. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813722.svg)](https://doi.org/10.5281/zenodo.17813722) |
-| **nopeak-utils** | Python functions for mapping heterozygous SNPs to biologically-relevant motifs. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813713.svg)](https://doi.org/10.5281/zenodo.17813713) |
-| **tfomics** | Python tools for transcription factor binding analysis and motif-based functional genomics analysis. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813711.svg)](https://doi.org/10.5281/zenodo.17813711) |
-| **vignette** | Reproducible demonstration dataset for the transcription factor TAL1 and a vignette for running the baal-nf nextflow pipeline. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813708.svg)](https://doi.org/10.5281/zenodo.17813708) |
+| [**BaalChIP**](https://github.com/BAAL-NF/BaalChIP) | Modified BaalChIP repository for inferring allele-specific binding (ASB) sites in ChIP-seq data using a fully-Bayesian approach. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813728.svg)](https://doi.org/10.5281/zenodo.17813728) |
+| [**baal-nf**](https://github.com/BAAL-NF/baal-nf) | Core Nextflow pipeline for ASB discovery and downstream characterization of high-quality ASBs. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813724.svg)](https://doi.org/10.5281/zenodo.17813724) |
+| [**non-asb-downstream-analysis**](https://github.com/BAAL-NF/non-asb-downstream-analysis) | Nextflow pipeline to run downstream analysis on high-quality ASB sets, including evolutionary conservation and trait/QTL association analysis with OpenTargets. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813722.svg)](https://doi.org/10.5281/zenodo.17813722) |
+| [**nopeak-utils**](https://github.com/BAAL-NF/nopeak-utils) | Python functions for mapping heterozygous SNPs to biologically-relevant motifs. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813713.svg)](https://doi.org/10.5281/zenodo.17813713) |
+| [**tfomics**](https://github.com/BAAL-NF/tfomics) | Python tools for transcription factor binding analysis and motif-based functional genomics analysis. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813711.svg)](https://doi.org/10.5281/zenodo.17813711) |
+| [**vignette**](https://github.com/BAAL-NF/vignette) | Reproducible demonstration dataset for the transcription factor TAL1 and a vignette for running the baal-nf nextflow pipeline. | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17813708.svg)](https://doi.org/10.5281/zenodo.17813708) |
 
 ---
 
